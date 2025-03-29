@@ -40,5 +40,10 @@ title(['Number of Coins: ', num2str(num_coins)]);
 
 disp(['Number of coins: ', num2str(num_coins)]);
 
+Result
+![Screenshot 2025-03-29 174321](https://github.com/user-attachments/assets/2b851244-5ef9-40b2-98ba-46f73293da37)
+![Screenshot 2025-03-29 174356](https://github.com/user-attachments/assets/8bb3506f-b9f4-4002-93c4-74fa1d0a2998)
+
+
 
 
