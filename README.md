@@ -39,3 +39,6 @@ imshow(bw_clean);                         % Display cleaned image
 title(['Number of Coins: ', num2str(num_coins)]);
 
 disp(['Number of coins: ', num2str(num_coins)]);
+
+
+
